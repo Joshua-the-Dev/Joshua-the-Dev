@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Joshua-the-Dev
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on web development projects
+- 👋 Hi, I am Joshua Egberibo
+- 👀 I'm a passionate Data Analyst and entrepreneur with expertise in Excel, Power BI, Tableau, SQL, and Python. I use data to drive informed decisions, solve business challenges, and improve performance. With a strong analytical mindset and a solution-focused approach, I critically assess problems, identify root causes, and develop effective strategies to achieve impactful, data-driven results.
+- 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me ...
 Email: jegberibo@gmail.com
 <!---
